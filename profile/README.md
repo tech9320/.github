@@ -8,7 +8,9 @@
 
 ## Designers
 
-TBC
+| Bogdan Karadarević  |
+|---|
+| <img src="https://avatars.githubusercontent.com/u/111356605?v=4" alt="drawing" width="200"/> |
 
 ## Continuous Projects
 
