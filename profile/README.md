@@ -16,11 +16,11 @@
 
 | Book of Semaphores | Project P1 |
 |---|---|
-| <img src="[https://avatars.githubusercontent.com/u/111356605?v=4](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/No_Logo_logo.svg/1200px-No_Logo_logo.svg.png)" alt="drawing" width="200"/> | <img src="[https://avatars.githubusercontent.com/u/111356605?v=4](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/No_Logo_logo.svg/1200px-No_Logo_logo.svg.png)" alt="drawing" width="200"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/No_Logo_logo.svg/1200px-No_Logo_logo.svg.png" alt="drawing" width="200"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/No_Logo_logo.svg/1200px-No_Logo_logo.svg.png" alt="drawing" width="200"/> |
 
 ## Currently Ongoing Projects
 
 | Project Air | Project DodreFN |
 |---|---|
-| <img src="[https://avatars.githubusercontent.com/u/111356605?v=4](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/No_Logo_logo.svg/1200px-No_Logo_logo.svg.png)" alt="drawing" width="200"/> | <img src="[https://avatars.githubusercontent.com/u/111356605?v=4](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/No_Logo_logo.svg/1200px-No_Logo_logo.svg.png)" alt="drawing" width="200"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/No_Logo_logo.svg/1200px-No_Logo_logo.svg.png" alt="drawing" width="200"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/No_Logo_logo.svg/1200px-No_Logo_logo.svg.png" alt="drawing" width="200"/> |
 
