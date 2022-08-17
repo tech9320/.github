@@ -14,15 +14,12 @@
 
 ## Continuous Projects
 
-TBC
+| Book of Semaphores | Project P1 |
+|---|---|
+| / | / |
 
 ## Currently Ongoing Projects
 
-TBC
-
-## Completed Projects
-
-TBC
-
-
-
+| Project Air | Project DodreFN |
+|---|---|
+| / | / |
