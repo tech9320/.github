@@ -22,5 +22,5 @@
 
 | Project Air | Project DodreFN |
 |---|---|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/No_Logo_logo.svg/1200px-No_Logo_logo.svg.png" alt="drawing" width="200"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/No_Logo_logo.svg/1200px-No_Logo_logo.svg.png" alt="drawing" width="200"/> |
+| <img src="https://cdn.discordapp.com/attachments/1009186907818831942/1009901686522916944/beli-256x256.png" alt="drawing" width="200"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/No_Logo_logo.svg/1200px-No_Logo_logo.svg.png" alt="drawing" width="200"/> |
 
