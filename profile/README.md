@@ -16,7 +16,7 @@
 
 | Book of Semaphores | Project P1 |
 |---|---|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/No_Logo_logo.svg/1200px-No_Logo_logo.svg.png" alt="drawing" width="200"/> | <img src="https://user-images.githubusercontent.com/107929243/185595044-e5641f92-ee0c-4c01-a069-358cbcf2da9c.png" alt="drawing" width="200"/> |
+| <img src="https://user-images.githubusercontent.com/107929243/185597101-788b8c08-1c6f-497b-a530-9e1b355e51d5.png" alt="drawing" width="200"/> | <img src="https://user-images.githubusercontent.com/107929243/185595044-e5641f92-ee0c-4c01-a069-358cbcf2da9c.png" alt="drawing" width="200"/> |
 
 ## Currently Ongoing Projects
 
