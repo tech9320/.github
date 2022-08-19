@@ -22,4 +22,4 @@
 
 | Project Air | Project DodreFN |
 |---|---|
-| <img src="https://cdn.discordapp.com/attachments/1009186907818831942/1009901686522916944/beli-256x256.png#gh-dark-mode-only" width="200"/> | <img src="https://user-images.githubusercontent.com/107929243/185616323-d81c7c24-91b4-4eef-8edd-3c555b0db98c.png#gh-dark-mode-only" width="200"/> |
+| <img src="https://user-images.githubusercontent.com/107929243/185619091-cf7c77c2-7f90-49ed-8cec-8a8a7f3c3035.png#gh-dark-mode-only" width="200"/> | <img src="https://user-images.githubusercontent.com/107929243/185616323-d81c7c24-91b4-4eef-8edd-3c555b0db98c.png#gh-dark-mode-only" width="200"/> |
