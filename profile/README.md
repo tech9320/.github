@@ -3,7 +3,6 @@
 ## Engineers
 
 | Stevan Radovanović  | Jovan Mitrović  | Nikola Petrović  |
-|---|---|---|
 | <img src="https://avatars.githubusercontent.com/u/107929243?v=4" alt="drawing" width="200"/> | <img src="https://avatars.githubusercontent.com/u/79802504?v=4" alt="drawing" width="200"/>  | <img src="https://avatars.githubusercontent.com/u/78090394?v=4" alt="drawing" width="200"/>  |
 | David Čuturilo  | Branislav Stojanović  | Uroš Stanimirović |
 | <img src="https://avatars.githubusercontent.com/u/57576302?v=4" alt="drawing" width="200"/> | <img src="https://avatars.githubusercontent.com/u/44339816?v=4" alt="drawing" width="200"/>  | <img src="https://avatars.githubusercontent.com/u/50801482?v=4" alt="drawing" width="200"/>  |
