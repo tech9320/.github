@@ -2,6 +2,8 @@
 
 A group of young engineers working on multiple projects spanning from small in-house apps to very complex enterprise solutions. Feel free to contact us if you have an idea and want to see it come to life!
 
+[Our Linkedin Page](https://www.linkedin.com/company/83034259)
+
 ## Engineers
 
 | Stevan Radovanović  | Jovan Mitrović  | Nikola Petrović  |
