@@ -22,9 +22,9 @@ A group of young engineers working on multiple projects spanning from small in-h
 
 ## Continuous Projects
 
-| Project Semaphore | Project P1 |
-|---|---|
-| <img src="https://user-images.githubusercontent.com/107929243/185597547-d4a5244b-8de8-409c-a997-b39f061138b5.png#gh-dark-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185620319-a432f1e6-5472-4296-ac26-d9555de95dd0.png#gh-light-mode-only" width="200"/> | <img src="https://user-images.githubusercontent.com/107929243/185595044-e5641f92-ee0c-4c01-a069-358cbcf2da9c.png#gh-dark-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185620171-bb2dbd55-0672-4828-81ef-f85956764e78.png#gh-light-mode-only" width="200"/> |
+| Project Semaphore | Project P1 | Project Fonopoly |
+|---|---|---|
+| <img src="https://user-images.githubusercontent.com/107929243/185597547-d4a5244b-8de8-409c-a997-b39f061138b5.png#gh-dark-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185620319-a432f1e6-5472-4296-ac26-d9555de95dd0.png#gh-light-mode-only" width="200"/> | <img src="https://user-images.githubusercontent.com/107929243/185595044-e5641f92-ee0c-4c01-a069-358cbcf2da9c.png#gh-dark-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185620171-bb2dbd55-0672-4828-81ef-f85956764e78.png#gh-light-mode-only" width="200"/> | - |
 
 ## Currently Ongoing Projects
 
