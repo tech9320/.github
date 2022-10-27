@@ -8,17 +8,17 @@ A group of young engineers working on multiple projects spanning from small in-h
 
 | Stevan Radovanović  | Jovan Mitrović  | Nikola Petrović  |
 |---|---|---|
-| <img src="https://avatars.githubusercontent.com/u/107929243?v=4" alt="drawing" width="200"/> | <img src="https://avatars.githubusercontent.com/u/79802504?v=4" alt="drawing" width="200"/>  | <img src="https://avatars.githubusercontent.com/u/78090394?v=4" alt="drawing" width="200"/>  |
+| <img src="https://user-images.githubusercontent.com/107929243/198259954-d846dd11-0def-454b-829e-ea92ff656be8.png" alt="drawing" width="200"/> | <img src="https://user-images.githubusercontent.com/107929243/198259953-a7dacc6f-f309-46c6-a6d8-4ab15bf2f4b9.png" alt="drawing" width="200"/>  | <img src="https://user-images.githubusercontent.com/107929243/198259952-cc7cab4e-a3a6-4583-8d4a-808cf31232a0.png" alt="drawing" width="200"/>  |
 
 | David Čuturilo  | Branislav Stojanović  | Uroš Stanimirović |
 |---|---|---|
-| <img src="https://avatars.githubusercontent.com/u/57576302?v=4" alt="drawing" width="200"/> | <img src="https://avatars.githubusercontent.com/u/44339816?v=4" alt="drawing" width="200"/>  | <img src="https://avatars.githubusercontent.com/u/50801482?v=4" alt="drawing" width="200"/>  |
+| <img src="https://user-images.githubusercontent.com/107929243/198259949-d5562f70-e187-4072-a082-e8ae2cadf5a7.png" alt="drawing" width="200"/> | <img src="https://user-images.githubusercontent.com/107929243/198259940-56fbf638-8158-4467-b9f0-2a091d1c1c7f.png" alt="drawing" width="200"/>  | <img src="https://user-images.githubusercontent.com/107929243/198259955-86db1a55-7a8f-4fb9-bd60-af8d4dd761ff.png" alt="drawing" width="200"/>  |
 
 ## Designers
 
 | Bogdan Karadarević  |
 |---|
-| <img src="https://avatars.githubusercontent.com/u/111356605?v=4" alt="drawing" width="200"/> |
+| <img src="https://user-images.githubusercontent.com/107929243/198259945-89bfb1c8-2ca5-45ee-b9bd-ee6605fc91f2.png" alt="drawing" width="200"/> |
 
 ## Continuous Projects
 
