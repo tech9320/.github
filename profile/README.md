@@ -22,14 +22,14 @@ A group of young engineers working on multiple projects spanning from small in-h
 ## Tech stack
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,angular,react"/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,deno,nestjs"/>
-    <img src="https://skillicons.dev/icons?i=graphql,jest,rabbitmq,reactivex"/>
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase" />
-    <img src="https://skillicons.dev/icons?i=redis,supabase,dynamodb,sqlite" />
-    <img src="https://skillicons.dev/icons?i=linux,c,bash,go" />
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku" />
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins" />
+    <img src="https://skillicons.dev/icons?i=js,ts,angular,react#gh-dark-mode-only"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,deno,nestjs#gh-dark-mode-only"/>
+    <img src="https://skillicons.dev/icons?i=graphql,jest,rabbitmq,reactivex#gh-dark-mode-only"/>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase#gh-dark-mode-only" />
+    <img src="https://skillicons.dev/icons?i=redis,supabase,dynamodb,sqlite#gh-dark-mode-only" />
+    <img src="https://skillicons.dev/icons?i=linux,c,bash,go#gh-dark-mode-only" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku#gh-dark-mode-only" />
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins#gh-dark-mode-only" />
   </a>
 
 </p>
@@ -55,24 +55,22 @@ A group of young engineers working on multiple projects spanning from small in-h
 
 ## Continuous Projects
 
-| Project Semaphore |
-|---|
-| <img src="https://user-images.githubusercontent.com/107929243/185597547-d4a5244b-8de8-409c-a997-b39f061138b5.png#gh-dark-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185620319-a432f1e6-5472-4296-ac26-d9555de95dd0.png#gh-light-mode-only" width="200"/> |
-|<img src="https://skillicons.dev/icons?i=c,linux" />|
+| Project Semaphore  | Project Hugo  | Project Shido  |
+|---|---|---|
+| <img src="https://user-images.githubusercontent.com/107929243/185597547-d4a5244b-8de8-409c-a997-b39f061138b5.png#gh-dark-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185620319-a432f1e6-5472-4296-ac26-d9555de95dd0.png#gh-light-mode-only" width="200"/>  | <img src="https://user-images.githubusercontent.com/44339816/235348642-de4c078d-c158-4c15-8701-1ab1dde5e02e.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/44339816/235348685-7d619cde-55eb-4ad6-9c68-c458766a5974.png#gh-dark-mode-only" width="200"/>  | <img src="https://user-images.githubusercontent.com/44339816/235348880-d3a04ff2-7bce-4b04-8886-cb5dcfc2c8e8.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/44339816/235348881-0fbe99ea-f8f3-4842-9e96-826e476adf50.png#gh-dark-mode-only" width="200"/>  |
+|<img src="https://skillicons.dev/icons?i=c,linux" /> | <img src="https://skillicons.dev/icons?i=js,html,css" /> | <img src="https://skillicons.dev/icons?i=angular" /> | 
 
 ## Currently Ongoing Projects
 
-| Project Air | Project CryptoTen |
-|---|---|
-| <img src="https://user-images.githubusercontent.com/107929243/185619091-cf7c77c2-7f90-49ed-8cec-8a8a7f3c3035.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185619573-a3940da1-918b-4f78-9299-3a196d1b2017.png#gh-dark-mode-only" width="200"/>| <img src="https://user-images.githubusercontent.com/44339816/205173400-074a6b4d-0193-4677-bf03-af8a432cb829.svg#gh-dark-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/44339816/205173219-098af979-328d-49fa-8151-bfb492443cc7.svg#gh-light-mode-only" width="200"/> |
-|<img src="https://skillicons.dev/icons?i=angular" />|<img src="https://skillicons.dev/icons?i=js,html,css" />|
+| Project Air |
+|---|
+| <img src="https://user-images.githubusercontent.com/107929243/185619091-cf7c77c2-7f90-49ed-8cec-8a8a7f3c3035.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185619573-a3940da1-918b-4f78-9299-3a196d1b2017.png#gh-dark-mode-only" width="200"/>|
+|<img src="https://skillicons.dev/icons?i=angular" />|
 
 ## Finished Projects
 
-| Project DodreFN | Project Hugo | Project Air | Project CryptoTen |
-|---|---|---|---|
-| <img src="https://user-images.githubusercontent.com/107929243/185616323-d81c7c24-91b4-4eef-8edd-3c555b0db98c.png#gh-dark-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185619975-5c6d92cb-d4f6-4b07-9166-c95d0ea459bc.png#gh-light-mode-only" width="200"/> | <img src="https://user-images.githubusercontent.com/111356605/188320652-fb77c461-f2b5-4a4e-9a1d-c4df3675e3e5.png#gh-dark-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/111356605/188320657-c7e05750-f209-4184-a5f7-e5a7a8418ca5.png#gh-light-mode-only" width="200"/> | <img src="https://user-images.githubusercontent.com/107929243/185619091-cf7c77c2-7f90-49ed-8cec-8a8a7f3c3035.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185619573-a3940da1-918b-4f78-9299-3a196d1b2017.png#gh-dark-mode-only" width="200"/>| <img src="https://user-images.githubusercontent.com/44339816/205173400-074a6b4d-0193-4677-bf03-af8a432cb829.svg#gh-dark-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/44339816/205173219-098af979-328d-49fa-8151-bfb492443cc7.svg#gh-light-mode-only" width="200"/> |
-|<img src="https://skillicons.dev/icons?i=java" />|<img src="https://skillicons.dev/icons?i=js,html,css" /> | <img src="https://skillicons.dev/icons?i=angular" />|<img src="https://skillicons.dev/icons?i=js,html,css" />|
-
-
+| Project DodreFN | Project CryptoTen | Project AilaDrodd |
+|---|---|---|
+| <img src="https://user-images.githubusercontent.com/107929243/185616323-d81c7c24-91b4-4eef-8edd-3c555b0db98c.png#gh-dark-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185619975-5c6d92cb-d4f6-4b07-9166-c95d0ea459bc.png#gh-light-mode-only" width="200"/> | <img src="https://user-images.githubusercontent.com/44339816/205173400-074a6b4d-0193-4677-bf03-af8a432cb829.svg#gh-dark-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/44339816/205173219-098af979-328d-49fa-8151-bfb492443cc7.svg#gh-light-mode-only" width="200"/> | <img src="https://user-images.githubusercontent.com/44339816/235349858-edce666c-a03a-4cdf-adbc-a0494787afeb.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/44339816/235349834-866807b8-d33e-4748-bb4a-0e69b6e5c2a7.png#gh-dark-mode-only" width="200"/>
+|<img src="https://skillicons.dev/icons?i=java" />|<img src="https://skillicons.dev/icons?i=js,html,css" />| <img src="https://skillicons.dev/icons?i=c" /> |
 
