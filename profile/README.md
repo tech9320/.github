@@ -64,7 +64,7 @@ A group of young engineers working on multiple projects spanning from small in-h
 
 | Project Air | Project IBooks |
 |---|---|
-| <img src="https://user-images.githubusercontent.com/107929243/185619091-cf7c77c2-7f90-49ed-8cec-8a8a7f3c3035.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185619573-a3940da1-918b-4f78-9299-3a196d1b2017.png#gh-dark-mode-only" width="200"/>| <img src="https://github.com/tech9320/.github/assets/44339816/8d7faa23-31b3-4efe-ad21-7b600d485aa5" width="200"/>|
+| <img src="https://user-images.githubusercontent.com/107929243/185619091-cf7c77c2-7f90-49ed-8cec-8a8a7f3c3035.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185619573-a3940da1-918b-4f78-9299-3a196d1b2017.png#gh-dark-mode-only" width="200"/>| <img src="https://github.com/tech9320/.github/assets/107929243/395694a9-bee5-4b1a-8f2c-1a429a633a6c" width="200"/>|
 |<img src="https://skillicons.dev/icons?i=angular,electron" />|<img src="https://skillicons.dev/icons?i=angular,firebase" />|
 
 ## Finished Projects
