@@ -58,14 +58,14 @@ A group of young engineers working on multiple projects spanning from small in-h
 | Project Semaphore  | Project Hugo  | Project Shido  |
 |---|---|---|
 | <img src="https://user-images.githubusercontent.com/107929243/185597547-d4a5244b-8de8-409c-a997-b39f061138b5.png#gh-dark-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185620319-a432f1e6-5472-4296-ac26-d9555de95dd0.png#gh-light-mode-only" width="200"/>  | <img src="https://user-images.githubusercontent.com/44339816/235348642-de4c078d-c158-4c15-8701-1ab1dde5e02e.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/44339816/235348685-7d619cde-55eb-4ad6-9c68-c458766a5974.png#gh-dark-mode-only" width="200"/>  | <img src="https://user-images.githubusercontent.com/44339816/235348880-d3a04ff2-7bce-4b04-8886-cb5dcfc2c8e8.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/44339816/235348881-0fbe99ea-f8f3-4842-9e96-826e476adf50.png#gh-dark-mode-only" width="200"/>  |
-|<img src="https://skillicons.dev/icons?i=c,linux" /> | <img src="https://skillicons.dev/icons?i=js,html,css" /> | <img src="https://skillicons.dev/icons?i=angular" /> | 
+|<img src="https://skillicons.dev/icons?i=c,linux" /> | <img src="https://skillicons.dev/icons?i=nestjs,html,css" /> | <img src="https://skillicons.dev/icons?i=angular" /> | 
 
 ## Currently Ongoing Projects
 
-| Project Air | Project IBooks |
-|---|---|
-| <img src="https://user-images.githubusercontent.com/107929243/185619091-cf7c77c2-7f90-49ed-8cec-8a8a7f3c3035.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185619573-a3940da1-918b-4f78-9299-3a196d1b2017.png#gh-dark-mode-only" width="200"/>| <img src="https://github.com/tech9320/.github/assets/107929243/395694a9-bee5-4b1a-8f2c-1a429a633a6c" width="200"/>|
-|<img src="https://skillicons.dev/icons?i=angular,electron" />|<img src="https://skillicons.dev/icons?i=angular,firebase" />|
+| Project Air | Project IBooks | Elementals |
+|---|---|---|
+| <img src="https://user-images.githubusercontent.com/107929243/185619091-cf7c77c2-7f90-49ed-8cec-8a8a7f3c3035.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185619573-a3940da1-918b-4f78-9299-3a196d1b2017.png#gh-dark-mode-only" width="200"/>| <img src="https://github.com/tech9320/.github/assets/107929243/395694a9-bee5-4b1a-8f2c-1a429a633a6c" width="200"/>| <img src="https://github.com/tech9320/.github/assets/44339816/33f812b1-e6d5-4045-8364-b42d46c27630" width="200"/> | 
+|<img src="https://skillicons.dev/icons?i=angular,electron" />|<img src="https://skillicons.dev/icons?i=angular,firebase" />| <img src="https://skillicons.dev/icons?i=nestjs,react" />|
 
 ## Finished Projects
 
