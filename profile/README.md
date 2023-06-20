@@ -62,15 +62,15 @@ A group of young engineers working on multiple projects spanning from small in-h
 
 ## Currently Ongoing Projects
 
-| Project Air | Elementals |
-|---|---|
-| <img src="https://user-images.githubusercontent.com/107929243/185619091-cf7c77c2-7f90-49ed-8cec-8a8a7f3c3035.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185619573-a3940da1-918b-4f78-9299-3a196d1b2017.png#gh-dark-mode-only" width="200"/> | <img src="https://github.com/tech9320/.github/assets/44339816/33f812b1-e6d5-4045-8364-b42d46c27630" width="200"/> | 
-|<img src="https://skillicons.dev/icons?i=angular,electron" /> | <img src="https://skillicons.dev/icons?i=nestjs,react" />|
+| Project Air |
+|---|
+| <img src="https://user-images.githubusercontent.com/107929243/185619091-cf7c77c2-7f90-49ed-8cec-8a8a7f3c3035.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185619573-a3940da1-918b-4f78-9299-3a196d1b2017.png#gh-dark-mode-only" width="200"/> |
+|<img src="https://skillicons.dev/icons?i=angular,electron" /> | 
 
 ## Finished Projects
 
-| Project DodreFN | Project CryptoTen | Project AilaDrodd | Project IBooks |
-|---|---|---|---|
-| <img src="https://user-images.githubusercontent.com/107929243/185616323-d81c7c24-91b4-4eef-8edd-3c555b0db98c.png#gh-dark-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185619975-5c6d92cb-d4f6-4b07-9166-c95d0ea459bc.png#gh-light-mode-only" width="200"/> | <img src="https://user-images.githubusercontent.com/44339816/205173400-074a6b4d-0193-4677-bf03-af8a432cb829.svg#gh-dark-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/44339816/205173219-098af979-328d-49fa-8151-bfb492443cc7.svg#gh-light-mode-only" width="200"/> | <img src="https://user-images.githubusercontent.com/44339816/235349858-edce666c-a03a-4cdf-adbc-a0494787afeb.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/44339816/235349834-866807b8-d33e-4748-bb4a-0e69b6e5c2a7.png#gh-dark-mode-only" width="200"/> | <img src="https://github.com/tech9320/.github/assets/107929243/395694a9-bee5-4b1a-8f2c-1a429a633a6c" width="200"/> |
-| <img src="https://skillicons.dev/icons?i=c" />|<img src="https://skillicons.dev/icons?i=js,html,css" />| <img src="https://skillicons.dev/icons?i=c" /> | <img src="https://skillicons.dev/icons?i=angular,firebase" /> |
+| Project DodreFN | Project CryptoTen | Project AilaDrodd | Project IBooks | Elementals |
+|---|---|---|---|---|
+| <img src="https://user-images.githubusercontent.com/107929243/185616323-d81c7c24-91b4-4eef-8edd-3c555b0db98c.png#gh-dark-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185619975-5c6d92cb-d4f6-4b07-9166-c95d0ea459bc.png#gh-light-mode-only" width="200"/> | <img src="https://user-images.githubusercontent.com/44339816/205173400-074a6b4d-0193-4677-bf03-af8a432cb829.svg#gh-dark-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/44339816/205173219-098af979-328d-49fa-8151-bfb492443cc7.svg#gh-light-mode-only" width="200"/> | <img src="https://user-images.githubusercontent.com/44339816/235349858-edce666c-a03a-4cdf-adbc-a0494787afeb.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/44339816/235349834-866807b8-d33e-4748-bb4a-0e69b6e5c2a7.png#gh-dark-mode-only" width="200"/> | <img src="https://github.com/tech9320/.github/assets/107929243/395694a9-bee5-4b1a-8f2c-1a429a633a6c" width="200"/> | <img src="https://github.com/tech9320/.github/assets/44339816/33f812b1-e6d5-4045-8364-b42d46c27630" width="200"/> | 
+| <img src="https://skillicons.dev/icons?i=c" />|<img src="https://skillicons.dev/icons?i=js,html,css" />| <img src="https://skillicons.dev/icons?i=c" /> | <img src="https://skillicons.dev/icons?i=angular,firebase" /> | <img src="https://skillicons.dev/icons?i=nestjs,react" />|
 
