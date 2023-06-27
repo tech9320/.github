@@ -40,18 +40,18 @@ A group of young engineers working on multiple projects spanning from small in-h
 
 | <a href="https://github.com/radovanovic-stevan">Stevan Radovanović</a>  | <a href="https://github.com/jovanmit998">Jovan Mitrović</a>  | <a href="https://github.com/DzoniTheNick">Nikola Petrović</a>  |
 |---|---|---|
-| <img src="https://user-images.githubusercontent.com/107929243/198259954-d846dd11-0def-454b-829e-ea92ff656be8.png" alt="drawing" width="200"/> | <img src="https://user-images.githubusercontent.com/107929243/198259953-a7dacc6f-f309-46c6-a6d8-4ab15bf2f4b9.png" alt="drawing" width="200"/>  | <img src="https://user-images.githubusercontent.com/107929243/198259952-cc7cab4e-a3a6-4583-8d4a-808cf31232a0.png" alt="drawing" width="200"/>  |![download (1)](https://user-images.githubusercontent.com/44339816/234821120-f591a2f8-5da8-43bd-8b84-303a55e6a26e.jpeg)
+| <img src="https://github.com/tech9320/.github/assets/44339816/7312ec24-38da-4164-a3d4-88160b0b06d5" alt="drawing" width="200"/> | <img src="https://github.com/tech9320/.github/assets/44339816/fd98361e-2374-4e6d-8d5d-a07f581b8cbd" alt="drawing" width="200"/>  | <img src="https://github.com/tech9320/.github/assets/44339816/f778e32a-87ff-40bf-9d6a-d3660ebb79f4" alt="drawing" width="200"/>  |![download (1)](https://user-images.githubusercontent.com/44339816/234821120-f591a2f8-5da8-43bd-8b84-303a55e6a26e.jpeg)
 
 
 | <a href="https://github.com/DavidCuturilo">David Čuturilo</a>  | <a href="https://github.com/Banega00">Branislav Stojanović</a>  | <a href="https://github.com/UrosStan">Uroš Stanimirović</a> |
 |---|---|---|
-| <img src="https://user-images.githubusercontent.com/107929243/198259949-d5562f70-e187-4072-a082-e8ae2cadf5a7.png" alt="drawing" width="200"/> | <img src="https://user-images.githubusercontent.com/107929243/198259940-56fbf638-8158-4467-b9f0-2a091d1c1c7f.png" alt="drawing" width="200"/>  | <img src="https://user-images.githubusercontent.com/107929243/198259955-86db1a55-7a8f-4fb9-bd60-af8d4dd761ff.png" alt="drawing" width="200"/>  |
+| <img src="https://github.com/tech9320/.github/assets/44339816/7312ec24-38da-4164-a3d4-88160b0b06d5" alt="drawing" width="200"/> | <img src="https://github.com/tech9320/.github/assets/44339816/b6543bd2-a550-4e01-8756-8e83d59f346a" alt="drawing" width="200"/>  | <img src="https://github.com/tech9320/.github/assets/44339816/bcc82328-badc-4085-ad79-cb844abc3274" alt="drawing" width="200"/>  |
 
 ## Designers
 
 | <a href="https://github.com/orgs/tech9320/people/BKaradarevic">Bogdan Karadarević</a>  |
 |---|
-| <img src="https://user-images.githubusercontent.com/107929243/198259945-89bfb1c8-2ca5-45ee-b9bd-ee6605fc91f2.png" alt="drawing" width="200"/> |
+| <img src="https://github.com/tech9320/.github/assets/44339816/db16b582-1a6d-48a1-bdf7-f9c245ea9edc" alt="drawing" width="200"/> |
 
 ## Continuous Projects!
 
