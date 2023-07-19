@@ -62,10 +62,11 @@ A group of young engineers working on multiple projects spanning from small in-h
 
 ## Currently Ongoing Projects
 
-| Project Air |
-|---|
-| <img src="https://user-images.githubusercontent.com/107929243/185619091-cf7c77c2-7f90-49ed-8cec-8a8a7f3c3035.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185619573-a3940da1-918b-4f78-9299-3a196d1b2017.png#gh-dark-mode-only" width="200"/> |
-|<img src="https://skillicons.dev/icons?i=angular,electron" /> | 
+| Project Air | Investiva (Attic42) |
+|---|---|
+| <img src="https://user-images.githubusercontent.com/107929243/185619091-cf7c77c2-7f90-49ed-8cec-8a8a7f3c3035.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185619573-a3940da1-918b-4f78-9299-3a196d1b2017.png#gh-dark-mode-only" width="200"/> | <img src="https://github.com/tech9320/.github/assets/107929243/864f74ee-2f19-4445-b586-cbf2d6e557f6" width="200"/> |
+|<img src="https://skillicons.dev/icons?i=angular,electron" /> | <img src="https://skillicons.dev/icons?i=react" />
+
 
 ## Finished Projects
 
