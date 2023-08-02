@@ -40,8 +40,7 @@ A group of young engineers working on multiple projects spanning from small in-h
 
 | <a href="https://github.com/radovanovic-stevan">Stevan Radovanović</a>  | <a href="https://github.com/jovanmit998">Jovan Mitrović</a>  | <a href="https://github.com/DzoniTheNick">Nikola Petrović</a>  |
 |---|---|---|
-| <img src="https://github.com/tech9320/.github/assets/44339816/3fd6f804-8faa-4b0b-b141-375a6f986842" alt="drawing" width="200"/> | <img src="https://github.com/tech9320/.github/assets/44339816/fd98361e-2374-4e6d-8d5d-a07f581b8cbd" alt="drawing" width="200"/>  | <img src="https://github.com/tech9320/.github/assets/44339816/f778e32a-87ff-40bf-9d6a-d3660ebb79f4" alt="drawing" width="200"/>  |![download (1)](https://user-images.githubusercontent.com/44339816/234821120-f591a2f8-5da8-43bd-8b84-303a55e6a26e.jpeg)
-
+| <img src="https://github.com/tech9320/.github/assets/44339816/3fd6f804-8faa-4b0b-b141-375a6f986842" alt="drawing" width="200"/> | <img src="https://github.com/tech9320/.github/assets/107929243/da3b8ab6-9499-448f-a24a-928e94419df2" alt="drawing" width="200"/>  | <img src="https://github.com/tech9320/.github/assets/44339816/f778e32a-87ff-40bf-9d6a-d3660ebb79f4" alt="drawing" width="200"/>  |![download (1)](https://user-images.githubusercontent.com/44339816/234821120-f591a2f8-5da8-43bd-8b84-303a55e6a26e.jpeg)
 
 | <a href="https://github.com/DavidCuturilo">David Čuturilo</a>  | <a href="https://github.com/Banega00">Branislav Stojanović</a>  | <a href="https://github.com/UrosStan">Uroš Stanimirović</a> |
 |---|---|---|
