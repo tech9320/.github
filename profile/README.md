@@ -57,7 +57,6 @@ A group of young engineers working on multiple projects spanning from small in-h
 | Project Hugo  | Project Shido  |
 |---|---|
 | <img src="https://user-images.githubusercontent.com/44339816/235348642-de4c078d-c158-4c15-8701-1ab1dde5e02e.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/44339816/235348685-7d619cde-55eb-4ad6-9c68-c458766a5974.png#gh-dark-mode-only" width="200"/>  | <img src="https://github.com/tech9320/.github/assets/107929243/a53a1678-fde2-403f-9a08-9384bc52ff7c" width="200"/>
-|
 | <img src="https://skillicons.dev/icons?i=nestjs,html,css" /> | <img src="https://skillicons.dev/icons?i=angular,react,express" /> | 
 
 ## Currently Ongoing Projects
