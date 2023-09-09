@@ -19,7 +19,7 @@ Welcome to Tech 9320
 
 A group of young engineers working on multiple projects spanning from small in-house apps to very complex enterprise solutions. Feel free to contact us if you have an idea and want to see it come to life!
 
-## Tech stack
+## Tech Stack
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,angular,react#gh-dark-mode-only"/>
@@ -57,22 +57,21 @@ A group of young engineers working on multiple projects spanning from small in-h
 | 9320 Website  | Project Shido  |
 |---|---|
 | <img width="200" src="https://github.com/tech9320/.github/assets/107929243/ec607e93-48ec-4f97-8bdf-8a4e8b4af700"/> | <img src="https://github.com/tech9320/.github/assets/107929243/a53a1678-fde2-403f-9a08-9384bc52ff7c" width="200"/>
-| <img src="https://skillicons.dev/icons?i=js,html,css" /> | <img src="https://skillicons.dev/icons?i=angular,react,express" /> | 
+| <img src="https://github.com/tech9320/.github/assets/107929243/35c80ec5-1ce2-4a40-85db-1dd073048868" width="50"/> | <img src="https://skillicons.dev/icons?i=angular,react,express" /> | 
 
 ## Currently Ongoing Projects
 
 | Investiva (Attic42) | SerbLink |
 |---|---|
 | <img src="https://github.com/tech9320/.github/assets/107929243/864f74ee-2f19-4445-b586-cbf2d6e557f6" width="200"/> | <img src="https://github.com/tech9320/.github/assets/44339816/861b2004-18a2-4abd-b5f1-93dc89b7b0dd" width="200"/> |
-| <img src="https://skillicons.dev/icons?i=react" /> | <img src="https://skillicons.dev/icons?i=angular,html,css,js" /> 
+| <img src="https://skillicons.dev/icons?i=react,typescript" /> | <img src="https://skillicons.dev/icons?i=angular,typescript" /> 
 
 ## Finished Projects
 
 | CryptoTen | IBooks | Elementals | ATC (Project Air) |
 |---|---|---|---|
 | <img src="https://user-images.githubusercontent.com/44339816/205173400-074a6b4d-0193-4677-bf03-af8a432cb829.svg#gh-dark-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/44339816/205173219-098af979-328d-49fa-8151-bfb492443cc7.svg#gh-light-mode-only" width="200"/> | <img src="https://github.com/tech9320/.github/assets/107929243/395694a9-bee5-4b1a-8f2c-1a429a633a6c" width="200"/> | <img src="https://github.com/tech9320/.github/assets/44339816/33f812b1-e6d5-4045-8364-b42d46c27630" width="200"/> | <img src="https://user-images.githubusercontent.com/107929243/185619091-cf7c77c2-7f90-49ed-8cec-8a8a7f3c3035.png#gh-light-mode-only" width="200"/> <img src="https://user-images.githubusercontent.com/107929243/185619573-a3940da1-918b-4f78-9299-3a196d1b2017.png#gh-dark-mode-only" width="200"/> |
-|<img src="https://skillicons.dev/icons?i=js,html,css" />| <img src="https://skillicons.dev/icons?i=angular,firebase" /> | <img src="https://skillicons.dev/icons?i=express,react" />|<img src="https://skillicons.dev/icons?i=angular,electron" /> |
+|<img src="https://skillicons.dev/icons?i=js,html,css" />| <img src="https://skillicons.dev/icons?i=angular,typescript,firebase" /> | <img src="https://skillicons.dev/icons?i=express,react,typescript" />|<img src="https://skillicons.dev/icons?i=angular,typescript,electron" /> |
 
-and many more!
-
+### ... and many more
 
